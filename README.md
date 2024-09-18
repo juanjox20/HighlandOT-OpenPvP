@@ -1,4 +1,4 @@
-# Insane-RetroPvP-Client
+# HighlandOT-OpenPvP-Client
 <p><img style="margin-top: -7px;" src="https://github.com/TheWarGlobal/TheWarGlobal-OptionalPvP-3.0/releases/download/TheWarGlobal-OptionalPvP/OptionalPvP.png" alt="" width="190" height="165" align="right" border="0" hspace="10" /></p>
 <div style="text-align: center;"><span style="color: #3f3d3f; margin-left: 175px; font-family: Verdana, Arial, 'Times New Roman', sans-serif; font-size: 40px;"><strong><span style="color: green;">Optional PvP</span></strong></span></div>
 <div style="text-align: left;"><span style="color: #3f3d3f; font-family: Verdana, Arial, 'Times New Roman', sans-serif; font-size: 12px;"><br />&diams;&nbsp;</span><strong style="color: #3f3d3f; font-family: Verdana, Arial, 'Times New Roman', sans-serif; font-size: 12px;">Host:&nbsp;<span style="color: green;">Brazil - Low Ping</span></strong></div>
